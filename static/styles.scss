@@ -181,7 +181,7 @@ form {
     transition: transform 0.2s !important;
 
     &:hover {
-        transform: translate(-10px) !important;
+        transform: translateY(-10px) !important;
     }
     img{
         max-width: 100%;
